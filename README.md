@@ -3,7 +3,7 @@
 ### :wave: Hi, I'm Taiki Inoue
 ---
 I'm currently working as a researcher and a project manager at an AI startup in Tokyo.
-My interest is unsupervesed anomaly detection, neural architecture search and MLOps.
+My interests are unsupervesed anomaly detection, neural architecture search and MLOps.
 
 <br>
 
