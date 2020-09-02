@@ -1,3 +1,5 @@
+<br>
+
 ### :wave: Hi, I'm Taiki Inoue
 ---
 I'm currently working as a researcher and a project manager at an AI startup in Tokyo.
