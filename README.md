@@ -15,6 +15,7 @@ My interests are unsupervesed anomaly detection, neural architecture search and 
 <br>
 
 ### :rocket: My Private Projects
+---
 - [iClassification](https://github.com/TaikiInoue/iClassification): Classification Zoo Built by PyTorch
 - [iSegmentation](https://github.com/TaikiInoue/iSegmentation): Semantic Segmentation Zoo Built by PyTorch
 
