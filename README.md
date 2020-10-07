@@ -14,9 +14,15 @@ My interests are unsupervesed anomaly detection, neural architecture search and 
 
 <br>
 
+### :rocket: My Private Projects
+- [iClassification](https://github.com/TaikiInoue/iClassification): Classification Zoo Built by PyTorch
+- [iSegmentation](https://github.com/TaikiInoue/iSegmentation): Semantic Segmentation Zoo Built by PyTorch
+
+<br>
+
 ### :briefcase: Work
 ---
-- Researcher at NABLAS Inc. (2020.04 - Present)
+- Researcher at NABLAS Inc. (2019.06 - Present)
 
 <br>
 
